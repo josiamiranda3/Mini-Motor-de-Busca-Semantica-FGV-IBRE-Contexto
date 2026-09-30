@@ -118,7 +118,7 @@ Trecho do texto
  Como Executar o Projeto
  
 1. Clonar repositório
-git clone ([https://github.com/jmolima2000/Desafio-Tecnico-Estagio-em-Ciencia-de-Dados.git](https://github.com/josiamiranda3/Mini-Motor-de-Busca-Semantica-FGV-IBRE-Contexto))
+git clone (git@github.com:josiamiranda3/Mini-Motor-de-Busca-Semantica-FGV-IBRE-Contexto.git)
 cd desafio-ciencia-de-dados-ibre
 
 2. Criar ambiente virtual
