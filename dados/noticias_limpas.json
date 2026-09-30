@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "titulo": "Copom mantém Selic em 13,75% ao ano pela quarta reunião consecutiva",
+    "texto_limpo": "às 20h15 O Comitê de Política Monetária (Copom) do Banco Central do Brasil decidiu, por unanimidade, manter a taxa básica de juros (Selic) em 13,75% ao ano. Esta é a quarta reunião consecutiva em que o comitê opta pela manutenção. Segundo o comunicado oficial, o Copom avaliou que o ambiente inflacionário ainda exige cautela, embora o IPCA acumulado nos últimos doze meses tenha apresentado desaceleração consistente. O colegiado ponderou, ainda, os efeitos defasados da política monetária já em vigor sobre a atividade econômica. Leia o comunicado completo em",
+    "data": "2023-08-02",
+    "fonte": "Banco Central do Brasil"
+  },
+  {
+    "id": 2,
+    "titulo": "IPCA de julho registra 0,12%, menor resultado para o mês desde 2006",
+    "texto_limpo": "às 09h00 O Índice Nacional de Preços ao Consumidor Amplo (IPCA) ficou em 0,12% em julho de 2023, o menor resultado para o mês desde 2006, quando havia recuado 0,04%. No acumulado do ano, o índice chega a 3,19%, e em doze meses, a 3,99%. O grupo de Alimentação e Bebidas foi o principal responsável pela desaceleração, com variação negativa de 0,07%. Já Transportes apresentaram alta de 0,39%, puxados pelo aumento nos preços dos combustíveis. Dados completos disponíveis em ibge.gov.br .",
+    "data": "2023-08-09",
+    "fonte": "IBGE"
+  },
+  {
+    "id": 3,
+    "titulo": "PIB do Brasil cresce 1,9% no segundo trimestre de 2023",
+    "texto_limpo": "às 10h30 O Produto Interno Bruto (PIB) do Brasil cresceu 1,9% no segundo trimestre de 2023 em relação ao trimestre anterior, segundo dados divulgados pelo IBGE . O resultado superou as expectativas do mercado, que projetava expansão de 1,5%. O setor de serviços foi o grande destaque, com crescimento de 0,6%, enquanto a agropecuária avançou 0,9%, beneficiada pela safra recorde de soja. A indústria, por sua vez, teve alta mais modesta de 0,3%. No acumulado dos quatro trimestres encerrados em junho de 2023, o PIB cresceu 3,4% em relação aos quatro trimestres anteriores.",
+    "data": "2023-09-01",
+    "fonte": "IBGE"
+  },
+  {
+    "id": 4,
+    "titulo": "Taxa de desemprego cai para 7,9% no segundo trimestre, menor nível desde 2014",
+    "texto_limpo": "A taxa de desemprego no Brasil recuou para 7,9% no segundo trimestre de 2023, o menor nível desde o quarto trimestre de 2014, quando foi de 6,5%. Os dados são da Pesquisa Nacional por Amostra de Domicílios (PNAD Contínua), do IBGE. O número de desocupados caiu para 8,5 milhões de pessoas, uma redução de 1,1 milhão em relação ao trimestre anterior. O emprego formal, com carteira assinada, cresceu 2,3% no período. A renda média real dos trabalhadores também registrou crescimento de 3,7% na comparação anual, chegando a R$ 2.958. Acesse a PNAD Contínua completa",
+    "data": "2023-08-29",
+    "fonte": "IBGE"
+  },
+  {
+    "id": 5,
+    "titulo": "Dólar fecha abaixo de R$ 4,80 com expectativa de corte de juros nos EUA",
+    "texto_limpo": "45 | Mercados O dólar comercial encerrou a sessão desta quarta-feira cotado a R$ 4,79, uma queda de 0,8% em relação ao fechamento anterior. A divisa americana operou em baixa durante todo o pregão, influenciada pelas declarações do presidente do Federal Reserve , Jerome Powell, no simpósio de Jackson Hole, que sinalizaram possível pausa no ciclo de aperto monetário norte-americano. No mercado doméstico, o fluxo cambial positivo e a melhora nas expectativas para a economia brasileira também contribuíram para a valorização do real. Veja a cotação completa em BCB - Histórico de Cotações",
+    "data": "2023-08-23",
+    "fonte": "Valor Econômico"
+  },
+  {
+    "id": 6,
+    "titulo": "Copom inicia ciclo de corte e reduz Selic para 13,25%",
+    "texto_limpo": "Em movimento amplamente esperado pelo mercado financeiro, o Copom reduziu a taxa Selic em 0,50 ponto percentual, de 13,75% para 13,25% ao ano. É o primeiro corte desde agosto de 2020. O comitê sinalizou que, se o cenário base se confirmar, antecipa cortes de mesma magnitude nas próximas reuniões. O comunicado destacou que a desinflação acontece em ritmo mais rápido que o esperado , tanto no núcleo quanto nos preços administrados. Economistas ouvidos pelo Valor avaliam que a Selic pode encerrar 2023 em torno de 11,75%.",
+    "data": "2023-08-02",
+    "fonte": "Valor Econômico"
+  },
+  {
+    "id": 7,
+    "titulo": "Inadimplência das famílias sobe para 6,3% em julho, aponta BC",
+    "texto_limpo": "às 10h00 A inadimplência das famílias — operações com atraso superior a 90 dias — subiu para 6,3% em julho, alta de 0,1 ponto percentual em relação a junho, segundo dados do Banco Central . O indicador acumula crescimento de 0,8 pp nos últimos doze meses. O endividamento das famílias com o sistema financeiro atingiu 49,1% da renda acumulada em doze meses. O comprometimento da renda com o serviço da dívida ficou em 28,5%. O crédito pessoal não consignado, modalidade mais cara e de maior risco, apresentou inadimplência de 9,1%. Especialistas atribuem a piora ao efeito defasado dos juros altos sobre as finanças das famílias.",
+    "data": "2023-08-25",
+    "fonte": "Banco Central do Brasil"
+  },
+  {
+    "id": 8,
+    "titulo": "Exportações brasileiras somam US$ 32,4 bilhões em julho, recorde para o mês",
+    "texto_limpo": "As exportações brasileiras totalizaram US$ 32,4 bilhões em julho de 2023, recorde histórico para o mês, segundo dados divulgados pelo Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC). O resultado representa crescimento de 3,9% em relação a julho de 2022. A soja foi o principal produto exportado, com US$ 5,8 bilhões, seguida de petróleo bruto (US$ 4,1 bilhões) e carne bovina (US$ 1,3 bilhão). A China seguiu como principal destino, absorvendo 33% do total das vendas externas. As importações somaram US$ 22,1 bilhões, resultando em superávit comercial de US$ 10,3 bilhões.",
+    "data": "2023-08-07",
+    "fonte": "MDIC"
+  },
+  {
+    "id": 9,
+    "titulo": "Inflação ao produtor (IPA) desacelera e pressão sobre preços finais diminui",
+    "texto_limpo": "O Índice de Preços ao Produtor Amplo (IPA), que mede a variação de preços no atacado, registrou deflação de 0,55% em julho, segundo a FGV IBRE . O resultado reforça a tendência de menor pressão inflacionária sobre os preços ao consumidor nos próximos meses. Os produtos agropecuários registraram queda de 1,12%, enquanto os industriais recuaram 0,21%. Analistas da FGV destacam que a transmissão da deflação no atacado para o consumidor ocorre com defasagem de dois a três meses. O IGP-M, que também computa o IPA em sua fórmula, acumula queda de 5,18% nos últimos doze meses até julho.",
+    "data": "2023-08-10",
+    "fonte": "FGV IBRE"
+  },
+  {
+    "id": 10,
+    "titulo": "Crédito total no Brasil atinge R$ 5,6 trilhões com desaceleração no crescimento",
+    "texto_limpo": "Nota à Imprensa O estoque total de crédito no sistema financeiro nacional atingiu R$ 5,6 trilhões em julho de 2023, segundo o Relatório de Crédito do Banco Central . O crescimento anual desacelerou para 8,3%, ante 16,4% registrado em julho de 2022. O crédito às pessoas físicas cresceu 11,4% em doze meses, enquanto o crédito a empresas avançou apenas 5,1%. A taxa média de juros nas operações de crédito livre ficou em 40,2% ao ano, ainda em patamar elevado. O Banco Central observa que a desaceleração reflete tanto as condições financeiras mais restritivas quanto a maior seleção de risco pelas instituições financeiras.",
+    "data": "2023-08-25",
+    "fonte": "Banco Central do Brasil"
+  },
+  {
+    "id": 11,
+    "titulo": "Selic deve recuar a 9% até o fim de 2024, projetam economistas",
+    "texto_limpo": "às 14h20 Economistas consultados pelo Banco Central no Relatório Focus revisaram para baixo a projeção para a taxa Selic ao final de 2024, de 9,25% para 9,00% ao ano. A mudança reflete a percepção de que o ciclo de afrouxamento monetário poderá ser mais agressivo caso a inflação continue a recuar. Para o final de 2023, a mediana das expectativas permanece em 11,75%. O IPCA esperado para 2023 foi revisado de 4,92% para 4,84%, ainda acima da meta de 3,25%. O presidente do BC, Roberto Campos Neto, reiterou que as decisões serão tomadas \"reunião a reunião\", sem compromissos antecipados com um ritmo de corte específico.",
+    "data": "2023-08-15",
+    "fonte": "Banco Central do Brasil"
+  },
+  {
+    "id": 12,
+    "titulo": "PIB do agronegócio cresce 15,1% no primeiro semestre e impulsiona economia",
+    "texto_limpo": "O PIB do agronegócio cresceu 15,1% no primeiro semestre de 2023 em relação ao mesmo período do ano anterior, segundo dados da Confederação da Agricultura e Pecuária do Brasil (CNA) e do CEPEA/USP . O setor representou 24,8% do PIB nacional no período. A safra de grãos 2022/2023 foi estimada em 322,7 milhões de toneladas, recorde histórico, com crescimento de 15,1% ante a safra anterior. Soja, milho e algodão foram os principais responsáveis pelo resultado excepcional. Segundo especialistas, o desempenho do agro foi decisivo para evitar uma recessão técnica da economia brasileira no primeiro trimestre de 2023.",
+    "data": "2023-07-31",
+    "fonte": "CNA / CEPEA"
+  },
+  {
+    "id": 13,
+    "titulo": "Balança comercial fecha julho com superávit de R$ 10,3 bilhões",
+    "texto_limpo": "A balança comercial brasileira registrou superávit de US$ 10,3 bilhões em julho de 2023, o segundo melhor resultado da história para o mês. No acumulado do ano, o saldo positivo chega a US$ 56,2 bilhões. O bom desempenho das exportações é atribuído principalmente à safra agrícola recorde, que impulsionou as vendas externas de commodities. O Brasil deve registrar superávit comercial recorde em 2023, podendo ultrapassar US$ 100 bilhões pela primeira vez na história. Fonte: MDIC —",
+    "data": "2023-08-07",
+    "fonte": "MDIC"
+  },
+  {
+    "id": 14,
+    "titulo": "Desemprego juvenil no Brasil ainda preocupa apesar de melhora geral",
+    "texto_limpo": "às 11h00 Apesar da melhora generalizada no mercado de trabalho, a taxa de desemprego entre jovens de 18 a 24 anos ainda se mantém elevada, em 17,8% no segundo trimestre de 2023, mais do que o dobro da taxa geral de 7,9%, segundo a PNAD Contínua do IBGE . O emprego informal entre os jovens também preocupa: 52% dos jovens empregados não possuem carteira assinada. Programas governamentais de qualificação profissional e aprendizagem foram apontados como essenciais para reduzir esse hiato. Especialistas do Ministério do Trabalho destacam que a inserção de jovens no mercado formal exige, além de qualificação, mudanças estruturais na economia.",
+    "data": "2023-08-30",
+    "fonte": "IBGE"
+  },
+  {
+    "id": 15,
+    "titulo": "Câmbio: real se fortalece com melhora do ambiente externo e fiscal",
+    "texto_limpo": "O real acumulou valorização de 6,8% frente ao dólar no mês de agosto, tornando-se a moeda de melhor desempenho entre as emergências no período. O movimento foi impulsionado pela combinação de melhora no cenário externo — com expectativa de pausa no aperto monetário nos EUA — e avanços na agenda fiscal doméstica. A aprovação do arcabouço fiscal no Congresso e sinais positivos do mercado de trabalho contribuíram para reduzir o prêmio de risco do país. O CDS Brasil de 5 anos recuou para 170 pontos-base, o menor nível em dois anos.",
+    "data": "2023-08-28",
+    "fonte": "Reuters Brasil"
+  },
+  {
+    "id": 16,
+    "titulo": "IGP-M registra terceira deflação consecutiva em agosto",
+    "texto_limpo": "FGV IBRE O Índice Geral de Preços — Mercado (IGP-M) registrou variação de -0,53% em agosto, a terceira deflação consecutiva. No acumulado de doze meses, o índice acumula queda de 6,96%, segundo a FGV IBRE . O IPA (atacado) recuou 0,80%, com destaque para a queda nos preços dos produtos agropecuários (-1,45%). O IPC (consumidor) subiu 0,19%, influenciado principalmente pelos grupos de Alimentação e Saúde e Cuidados Pessoais. O INCC (construção civil) avançou 0,22%, reflexo das pressões pontuais em mão de obra no setor.",
+    "data": "2023-08-30",
+    "fonte": "FGV IBRE"
+  },
+  {
+    "id": 17,
+    "titulo": "Confiança do consumidor sobe pelo quarto mês seguido em agosto",
+    "texto_limpo": "O Índice de Confiança do Consumidor (ICC) da FGV IBRE avançou 1,2 pontos em agosto, para 92,4 pontos, a quarta alta consecutiva. O resultado ainda está abaixo da média histórica de 100 pontos, mas aponta para recuperação gradual do otimismo das famílias. A melhora foi observada tanto no componente de Situação Atual (+0,8 pontos) quanto nas Expectativas (+1,5 pontos). Entre os fatores apontados pelos consumidores como positivos estão a queda do desemprego e o ar arrefecimento da inflação. Para acessar o relatório completo, visite o Portal FGV IBRE .",
+    "data": "2023-08-29",
+    "fonte": "FGV IBRE"
+  },
+  {
+    "id": 18,
+    "titulo": "Nota curta",
+    "texto_limpo": "Selic.",
+    "data": "2023-08-01",
+    "fonte": "Desconhecida"
+  },
+  {
+    "id": 19,
+    "titulo": "Setor de serviços cresce 0,6% em junho e supera expectativas",
+    "texto_limpo": "às 09h00 A Pesquisa Mensal de Serviços (PMS) do IBGE revelou crescimento de 0,6% no volume de serviços em junho de 2023 em relação a maio, acima da expectativa de 0,3%. No acumulado do ano, o setor avança 3,8%. As atividades de Serviços prestados às famílias , como turismo e alimentação, lideraram o crescimento com alta de 1,5%. Transportes e correios também contribuíram positivamente, com +0,8%. O desempenho do setor de serviços, que representa cerca de 70% do PIB brasileiro, é visto como indicativo da solidez do consumo interno das famílias, impulsionado pela melhora no mercado de trabalho e pela redução da inflação.",
+    "data": "2023-08-11",
+    "fonte": "IBGE"
+  },
+  {
+    "id": 20,
+    "titulo": "Expectativas para o PIB de 2023 sobem para 2,5% após resultado do segundo trimestre",
+    "texto_limpo": "Após o PIB surpreender positivamente no segundo trimestre, economistas do mercado financeiro revisaram para cima suas projeções para o crescimento da economia em 2023. A mediana das expectativas no Focus saltou de 2,0% para 2,5%. O resultado acima do esperado foi impulsionado principalmente pelo agronegócio e pela solidêz do setor de serviços. Para o segundo semestre, entretanto, analistas projetam desaceleração, dado o efeito base desfavorável e o impacto defasado dos juros altos sobre a atividade. O Ministério da Fazenda também revisou sua projeção, de 2,0% para 2,5%, e destacou que o país está em trajetória de crescimento sustentado.",
+    "data": "2023-09-05",
+    "fonte": "Valor Econômico"
+  }
+]
