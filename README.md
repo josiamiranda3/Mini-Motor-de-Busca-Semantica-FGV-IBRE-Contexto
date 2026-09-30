@@ -214,8 +214,6 @@ Filtros por data e fonte
 
 Josias Miranda Oliveira de Lima
 
-GitHub: https://github.com/jmolima2000
-LinkedIn: https://www.linkedin.com/in/josias-miranda-lima/
 Considerações Finais
 
 A solução foi construída com foco em:
