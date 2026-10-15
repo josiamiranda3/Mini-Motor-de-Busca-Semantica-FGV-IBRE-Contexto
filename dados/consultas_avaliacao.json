@@ -1,0 +1,42 @@
+[
+  {
+    "consulta": "taxa Selic e decisões do Copom",
+    "relevantes": [1, 6, 11]
+  },
+  {
+    "consulta": "inflação medida pelo IPCA",
+    "relevantes": [2]
+  },
+  {
+    "consulta": "crescimento econômico e PIB brasileiro",
+    "relevantes": [3, 12, 20]
+  },
+  {
+    "consulta": "desemprego e mercado de trabalho",
+    "relevantes": [4, 14]
+  },
+  {
+    "consulta": "dólar e valorização do real",
+    "relevantes": [5, 15]
+  },
+  {
+    "consulta": "crédito e inadimplência das famílias",
+    "relevantes": [7, 10]
+  },
+  {
+    "consulta": "exportações e balança comercial",
+    "relevantes": [8, 13]
+  },
+  {
+    "consulta": "inflação ao produtor e deflação",
+    "relevantes": [9, 16]
+  },
+  {
+    "consulta": "confiança do consumidor",
+    "relevantes": [17]
+  },
+  {
+    "consulta": "crescimento do setor de serviços",
+    "relevantes": [3, 19]
+  }
+]

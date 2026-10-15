@@ -1,0 +1,6 @@
+{
+    "modelo": "paraphrase-multilingual-MiniLM-L12-v2",
+    "quantidade_noticias": 19,
+    "dimensao_embeddings": 384,
+    "fingerprint": "b28e2beb067fd0216b8e22c52a411a4473ae8d428ac35546d290319c5a18d817"
+}

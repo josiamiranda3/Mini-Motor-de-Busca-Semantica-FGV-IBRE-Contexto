@@ -1,5 +1,12 @@
+
 venv/
+.venv/
 __pycache__/
-*.pyc
-dados/embeddings.npy
+*.py[cod]
 .cache/
+
+# Artefatos de embeddings
+dados/embeddings.npy
+
+# Arquivos auxiliares de limpeza
+dados/noticias_limpas_backup.json
